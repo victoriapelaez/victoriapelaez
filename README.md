@@ -9,7 +9,7 @@ Recién titulada como Desarrolladora Web en el IES Frances de Borja Moll, aquí 
 </div>
 
 
-## Conocimientos mínimos:
+## Conocimientos
 
  <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
